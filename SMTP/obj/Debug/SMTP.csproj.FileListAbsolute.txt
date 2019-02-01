@@ -1,0 +1,7 @@
+E:\Torrent\Sieciowe\SMTP\SMTP\bin\Debug\SMTP.exe.config
+E:\Torrent\Sieciowe\SMTP\SMTP\bin\Debug\SMTP.exe
+E:\Torrent\Sieciowe\SMTP\SMTP\bin\Debug\SMTP.pdb
+E:\Torrent\Sieciowe\SMTP\SMTP\obj\Debug\SMTP.csprojResolveAssemblyReference.cache
+E:\Torrent\Sieciowe\SMTP\SMTP\obj\Debug\SMTP.csproj.CoreCompileInputs.cache
+E:\Torrent\Sieciowe\SMTP\SMTP\obj\Debug\SMTP.exe
+E:\Torrent\Sieciowe\SMTP\SMTP\obj\Debug\SMTP.pdb
